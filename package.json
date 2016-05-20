@@ -1,0 +1,19 @@
+{
+  "name": "thorin-plugin-loglet",
+  "author": "Stiudeo",
+  "version": "1.0.3",
+  "dependencies": {
+    "loglet.io": "1.x"
+  },
+  "description": "Thorin.js plugin that works with loglet.io for log streaming",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Stiudeo/Thorin-plugin-loglet"
+  },
+  "homepage": "http://thorinjs.com",
+  "bugs": {
+    "url": "https://github.com/Stiudeo/Thorin-plugin-less/issues"
+  }
+}
