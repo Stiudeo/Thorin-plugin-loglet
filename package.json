@@ -1,7 +1,7 @@
 {
   "name": "thorin-plugin-loglet",
   "author": "Stiudeo",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "dependencies": {
     "loglet.io": "1.x"
   },
@@ -10,10 +10,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Stiudeo/Thorin-plugin-loglet"
+    "url": "https://github.com/Thorinjs/Thorin-plugin-loglet"
   },
   "homepage": "http://thorinjs.com",
   "bugs": {
-    "url": "https://github.com/Stiudeo/Thorin-plugin-less/issues"
+    "url": "https://github.com/Thorinjs/Thorin-plugin-less/issues"
   }
 }
