@@ -1,5 +1,9 @@
 # Thorin.js plugin for loglet.io
 
+## Full documentation available at https://thorinjs.com
+
+### Plugin specific documentation available at https://thorinjs.com/plugin/loglet
+
 Loglet.io node.js client for encrypted log streaming and storage.
 For more information, visit https://loglet.io
 
