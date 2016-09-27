@@ -7,6 +7,7 @@ const initStream = require('./lib/logStream');
 module.exports = function(thorin, opt, pluginName) {
   opt = thorin.util.extend({
     logger: pluginName || 'loglet',
+    id: thorin.id,  // the process id
     enabled: true,
     boot: true,   // send the boot event?
     ignore: [], // array of loggers to ignore.
