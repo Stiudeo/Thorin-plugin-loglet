@@ -11,6 +11,7 @@ module.exports = function(thorin, opt, pluginName) {
     enabled: true,
     boot: true,   // send the boot event?
     ignore: [], // array of loggers to ignore.
+    gateway: process.env.LOGLET_GATEWAY || null,
     key: process.env.LOGLET_KEY,
     secret: process.env.LOGLET_SECRET
   }, opt);
